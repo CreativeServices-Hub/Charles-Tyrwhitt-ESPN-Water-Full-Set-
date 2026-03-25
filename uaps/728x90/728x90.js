@@ -2,7 +2,9 @@
 
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
-lib.ssMetadata = [];
+lib.ssMetadata = [
+		{name:"728x90_atlas_1", frames: [[0,0,1280,100],[0,102,1280,100],[0,204,1280,100],[0,306,1280,100],[0,408,1280,100],[0,510,728,90]]}
+];
 
 
 (lib.AnMovieClip = function(){
@@ -25,58 +27,46 @@ lib.ssMetadata = [];
 
 
 
-(lib.EndorsedbyCourtneyCroninESPNReporter = function() {
-	this.initialize(img.EndorsedbyCourtneyCroninESPNReporter);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,312,47);
+(lib.CHarlesTWater_0001s_0000_2021_CT_LOGO_WHITE_FILLED_STRAIGHT1 = function() {
+	this.initialize(ss["728x90_atlas_1"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
 
 
-(lib.gold = function() {
-	this.initialize(img.gold);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
+
+(lib.CHarlesTWater_0001s_0001_4shirtsorpolos299 = function() {
+	this.initialize(ss["728x90_atlas_1"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
 
 
-(lib.RogersandHolland_0000s_0000_9cdb952fa9a54dd189692d165925a3be = function() {
-	this.initialize(img.RogersandHolland_0000s_0000_9cdb952fa9a54dd189692d165925a3be);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1280,100);
+
+(lib.CHarlesTWater_0001s_0002_saveupto255 = function() {
+	this.initialize(ss["728x90_atlas_1"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
 
 
-(lib.RogersandHolland_0000s_0000s_0000_ShopNow = function() {
-	this.initialize(img.RogersandHolland_0000s_0000s_0000_ShopNow);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1280,100);
+
+(lib.CHarlesTWater_0001s_0003_ShopNow = function() {
+	this.initialize(ss["728x90_atlas_1"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
 
 
-(lib.RogersandHolland_0000s_0000s_0001_Rectangle1 = function() {
-	this.initialize(img.RogersandHolland_0000s_0000s_0001_Rectangle1);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1280,100);
+
+(lib.CHarlesTWater_0001s_0004_gradient = function() {
+	this.initialize(ss["728x90_atlas_1"]);
+	this.gotoAndStop(4);
+}).prototype = p = new cjs.Sprite();
 
 
-(lib.RogersandHolland_0000s_0005_fallpromoHPHerodesktop = function() {
-	this.initialize(img.RogersandHolland_0000s_0005_fallpromoHPHerodesktop);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1280,100);
 
+(lib.CSH0022GLD_CSH0018MCA_49462ext11 = function() {
+	this.initialize(ss["728x90_atlas_1"]);
+	this.gotoAndStop(5);
+}).prototype = p = new cjs.Sprite();
 
-(lib.RogersandHolland_0001s_0001_ExactlyWhatYouNeed = function() {
-	this.initialize(img.RogersandHolland_0001s_0001_ExactlyWhatYouNeed);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1280,100);
-
-
-(lib.RogersandHolland_0001s_0002_ThisHolidaySeasonLetUsHelpYouFind = function() {
-	this.initialize(img.RogersandHolland_0001s_0002_ThisHolidaySeasonLetUsHelpYouFind);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1280,100);
-
-
-(lib.RogersandHolland_0001s_0004_Layer8 = function() {
-	this.initialize(img.RogersandHolland_0001s_0004_Layer8);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1280,100);
 
 
 (lib.Symbol3 = function(mode,startPosition,loop,reversed) {
@@ -91,15 +81,15 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.RogersandHolland_0001s_0001_ExactlyWhatYouNeed();
-	this.instance.setTransform(33,0,0.6102,0.6099);
+	this.instance = new lib.CHarlesTWater_0001s_0001_4shirtsorpolos299();
+	this.instance.setTransform(-126,2,0.8531,0.8528);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(33,0,781,61);
+p.nominalBounds = new cjs.Rectangle(-126,2,1092,85.3);
 
 
 (lib.Symbol2 = function(mode,startPosition,loop,reversed) {
@@ -114,15 +104,15 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.RogersandHolland_0001s_0002_ThisHolidaySeasonLetUsHelpYouFind();
-	this.instance.setTransform(49,0,0.5898,0.5898);
+	this.instance = new lib.CHarlesTWater_0001s_0002_saveupto255();
+	this.instance.setTransform(-111,2,0.8351,0.8352);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(49,0,755,59);
+p.nominalBounds = new cjs.Rectangle(-111,2,1069,83.5);
 
 
 (lib.Symbol1 = function(mode,startPosition,loop,reversed) {
@@ -137,18 +127,15 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.RogersandHolland_0000s_0000s_0000_ShopNow();
-	this.instance.setTransform(-63,7,0.8304,0.8302);
+	this.instance = new lib.CHarlesTWater_0001s_0003_ShopNow();
+	this.instance.setTransform(-391,41,0.5922,0.5925);
 
-	this.instance_1 = new lib.RogersandHolland_0000s_0000s_0001_Rectangle1();
-	this.instance_1.setTransform(-63,7,0.8305,0.8303);
-
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-63,7,1063,83.1);
+p.nominalBounds = new cjs.Rectangle(-391,41,758,59.3);
 
 
 // stage content:
@@ -163,75 +150,83 @@ if (reversed == null) { reversed = false; }
 	props.reversed = reversed;
 	cjs.MovieClip.apply(this,[props]);
 
-	// Layer_4
-	this.instance = new lib.Symbol3("synched",0);
-	this.instance.setTransform(597.05,50.35,0.54,0.54,0,0,0,640.1,50);
-	this.instance.alpha = 0;
-	this.instance._off = true;
+	// Layer_5
+	this.instance = new lib.CHarlesTWater_0001s_0000_2021_CT_LOGO_WHITE_FILLED_STRAIGHT1();
+	this.instance.setTransform(2,1,0.682,0.682);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(21).to({_off:false},0).to({regX:640,scaleX:1,scaleY:1,x:640,y:50,alpha:1},21,cjs.Ease.cubicOut).wait(198));
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(240));
+
+	// Layer_6 (mask)
+	var mask = new cjs.Shape();
+	mask._off = true;
+	mask.graphics.p("EgkjAD6IAAnzMBJHAAAIAAHzg");
+	mask.setTransform(607.1504,18.5);
+
+	// Layer_4
+	this.instance_1 = new lib.Symbol3("synched",0);
+	this.instance_1.setTransform(640,251.05,1,1,0,0,0,640,209);
+
+	var maskedShapeInstanceList = [this.instance_1];
+
+	for(var shapedInstanceItr = 0; shapedInstanceItr < maskedShapeInstanceList.length; shapedInstanceItr++) {
+		maskedShapeInstanceList[shapedInstanceItr].mask = mask;
+	}
+
+	this.timeline.addTween(cjs.Tween.get(this.instance_1).to({y:209},30,cjs.Ease.quintOut).wait(210));
+
+	// Layer_7 (mask)
+	var mask_1 = new cjs.Shape();
+	mask_1._off = true;
+	var mask_1_graphics_30 = new cjs.Graphics().p("A0xDIIAAmPMApjAAAIAAGPg");
+
+	this.timeline.addTween(cjs.Tween.get(mask_1).to({graphics:null,x:0,y:0}).wait(30).to({graphics:mask_1_graphics_30,x:551.2253,y:69.4998}).wait(210));
 
 	// Layer_3
-	this.instance_1 = new lib.Symbol2("synched",0);
-	this.instance_1.setTransform(640,70,1,1,0,0,0,640,50);
-	this.instance_1.alpha = 0;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).to({y:50,alpha:1},22,cjs.Ease.cubicOut).wait(218));
-
-	// Layer_2
-	this.instance_2 = new lib.Symbol1("synched",0);
-	this.instance_2.setTransform(125.05,66.95,0.1423,0.1423,0,0,0,197.1,69.9);
-	this.instance_2.alpha = 0;
+	this.instance_2 = new lib.Symbol2("synched",0);
+	this.instance_2.setTransform(640,173,1,1,0,0,0,640,209);
 	this.instance_2._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(63).to({_off:false},0).to({regY:70,scaleX:1,scaleY:1,x:217.1,y:70,alpha:1},18,cjs.Ease.backOut).wait(159));
+	var maskedShapeInstanceList = [this.instance_2];
 
-	// Layer_5
-	this.instance_3 = new lib.EndorsedbyCourtneyCroninESPNReporter();
-	this.instance_3.setTransform(530,64,0.3847,0.3848);
+	for(var shapedInstanceItr = 0; shapedInstanceItr < maskedShapeInstanceList.length; shapedInstanceItr++) {
+		maskedShapeInstanceList[shapedInstanceItr].mask = mask_1;
+	}
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(240));
+	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(30).to({_off:false},0).to({y:209},27,cjs.Ease.quintOut).wait(183));
+
+	// Layer_2
+	this.instance_3 = new lib.Symbol1("synched",0);
+	this.instance_3.setTransform(640,217,1,1,0,0,0,640,209);
+	this.instance_3.alpha = 0;
+	this.instance_3._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(52).to({_off:false},0).to({y:209,alpha:1},13,cjs.Ease.cubicOut).wait(175));
 
 	// Layer_1
-	this.instance_4 = new lib.RogersandHolland_0001s_0004_Layer8();
-	this.instance_4.setTransform(-121,24,0.6635,0.6599);
+	this.instance_4 = new lib.CHarlesTWater_0001s_0004_gradient();
+	this.instance_4.setTransform(-8,-33,0.5874,1.3181);
 
-	this.instance_5 = new lib.RogersandHolland_0000s_0000_9cdb952fa9a54dd189692d165925a3be();
-	this.instance_5.setTransform(0,8,0.6117,0.6086);
+	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(240));
 
-	this.instance_6 = new lib.RogersandHolland_0000s_0005_fallpromoHPHerodesktop();
-	this.instance_6.setTransform(-129,0,0.9045,0.8999);
+	// Layer_8
+	this.instance_5 = new lib.CSH0022GLD_CSH0018MCA_49462ext11();
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_6},{t:this.instance_5},{t:this.instance_4}]}).wait(240));
-
-	// Layer_6
-	this.instance_7 = new lib.gold();
-	this.instance_7.setTransform(-4,-60,0.5773,0.5774);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_7).wait(240));
+	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(240));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(235,-15,862.2,196.4);
+p.nominalBounds = new cjs.Rectangle(-27,12,902,96.3);
 // library properties:
 lib.properties = {
-	id: '06F1D1F36AC54C22982C70DBB030A240',
+	id: '044AB73B0DE247D28B3DCC95B7ED1321',
 	width: 728,
 	height: 90,
 	fps: 30,
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/EndorsedbyCourtneyCroninESPNReporter.png", id:"EndorsedbyCourtneyCroninESPNReporter"},
-		{src:"images/gold.jpg", id:"gold"},
-		{src:"images/RogersandHolland_0000s_0000_9cdb952fa9a54dd189692d165925a3be.png", id:"RogersandHolland_0000s_0000_9cdb952fa9a54dd189692d165925a3be"},
-		{src:"images/RogersandHolland_0000s_0000s_0000_ShopNow.png", id:"RogersandHolland_0000s_0000s_0000_ShopNow"},
-		{src:"images/RogersandHolland_0000s_0000s_0001_Rectangle1.png", id:"RogersandHolland_0000s_0000s_0001_Rectangle1"},
-		{src:"images/RogersandHolland_0000s_0005_fallpromoHPHerodesktop.png", id:"RogersandHolland_0000s_0005_fallpromoHPHerodesktop"},
-		{src:"images/RogersandHolland_0001s_0001_ExactlyWhatYouNeed.png", id:"RogersandHolland_0001s_0001_ExactlyWhatYouNeed"},
-		{src:"images/RogersandHolland_0001s_0002_ThisHolidaySeasonLetUsHelpYouFind.png", id:"RogersandHolland_0001s_0002_ThisHolidaySeasonLetUsHelpYouFind"},
-		{src:"images/RogersandHolland_0001s_0004_Layer8.png", id:"RogersandHolland_0001s_0004_Layer8"}
+		{src:"images/728x90_atlas_1.png", id:"728x90_atlas_1"}
 	],
 	preloads: []
 };
@@ -269,7 +264,7 @@ an.bootstrapCallback=function(fnCallback) {
 };
 
 an.compositions = an.compositions || {};
-an.compositions['06F1D1F36AC54C22982C70DBB030A240'] = {
+an.compositions['044AB73B0DE247D28B3DCC95B7ED1321'] = {
 	getStage: function() { return exportRoot.stage; },
 	getLibrary: function() { return lib; },
 	getSpriteSheet: function() { return ss; },
